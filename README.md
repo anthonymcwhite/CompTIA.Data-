@@ -1,4 +1,4 @@
-# CompTIA.Data-
+# CompTIA's Data+ - Personal Course Material
 A collection of notes, slides, screenshots, and resources from the data+ certificate course.
 
 <tt>CompTIA's Data+ course was incredibly rewarding. I participated in a 5 month systems analyst training program and obtained this cert among a few others. <br>
